@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: yellow;
+}
+.container{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    width: 70%;
+    padding: 70px;
+
+}
+.blogContent{
+    margin-top: 25px;
+}
+#title{
+    font-size: 24px;
+    background-color: yellow;
+    width: 150px;
+    padding: 10px;
+    border-radius: 5px;
+}
+#publish{
+ margin-top: 10px;
+ font-style: italic;
+}
+#para{
+    font-size: 1.2rem;
+}
+.profile{
+    display: flex;
+    flex-direction: row;
+    /* justify-content: center; */
+    align-items: center;
+}
+#profileimg{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
