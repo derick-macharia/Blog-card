@@ -14,10 +14,14 @@ body{
     background-color: white;
     width: 70%;
     padding: 70px;
+<<<<<<< HEAD
     padding-bottom: 30px;
     margin: 50px, 0;
     border-top-right-radius:15%;
     border-bottom-left-radius: 15%;
+=======
+
+>>>>>>> 558f7e4781cfc9c298e86c0c4ac71ead412150a9
 }
 .blogContent{
     margin-top: 25px;
@@ -47,9 +51,12 @@ body{
     width: 100px;
     border-radius: 50%;
     margin-right: 20px;
+<<<<<<< HEAD
 }
 .reference{
     margin: 10px;
     display: flex;
     justify-content: center;
+=======
+>>>>>>> 558f7e4781cfc9c298e86c0c4ac71ead412150a9
 }
